@@ -1,4 +1,10 @@
-# React + Vite
+# React Modals
+
+This is a simple example of creating modals using react without any CSS frameworks. 
+
+First option is to create a new component per modal. The second option is to create a template component, and an array of objects which contains the modal body. 
+
+## Built with React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
