@@ -1,0 +1,12 @@
+.app-container {
+    max-width: 80vw; 
+    margin-inline: auto; 
+}
+
+.app-container>h1 {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
